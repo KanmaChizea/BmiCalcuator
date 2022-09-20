@@ -11,4 +11,5 @@
     <color name="primary">#FF161B21</color>
     <color name="yellow">#ECC141</color>
     <color name="card_bg">#0B0D10</color>
+    <color name="error">#CF6679</color>>
 </resources>
